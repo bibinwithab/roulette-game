@@ -1,4 +1,4 @@
-print("RUSSIAN ROULETTE")
+print("*********RUSSIAN ROULETTE*********")
 print("""Rules:
         >Enter a number from 1 to 6 to fire the gun.
         >And wish luck.""")

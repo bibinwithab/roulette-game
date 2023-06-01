@@ -9,7 +9,7 @@ bullet = random.randint(1, 6)
 count = 0
 shots_fired = 6
 while count < shots_fired:
-    guess = int(input("Enter a number: "))
+    guess = int(input("Enter a number from one to six: "))
     count += 1
     if guess == bullet:
         print("YOU DIED!")
